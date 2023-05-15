@@ -16,17 +16,7 @@
 
 5. **Diagrama de Gantt**
 
-Tiempo: 0----2----4----6----8----10---12---14---16---18---20---22
-
-P1:     |----10---|
-
-P2:              |---1---|
-
-P3:                   |----2---|
-
-P4:                         |----1---|
-
-P5:                               |----5---|
+![image](https://github.com/diegolopezrm/Sistemas-Operacionales/assets/63005462/dfa483c6-6e8a-4016-bb1d-2cf7c50d204c)
 
 
 6. **Tiempo de ejecución de cada proceso para cada algoritmo**
